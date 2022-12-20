@@ -3,7 +3,7 @@
   <div class="frame">Frame 2</div>
   <div class="frame">Frame 3</div>
 </div>
-
+```css
 <style>
 #animation {
   position: relative;
@@ -25,7 +25,7 @@
   opacity: 1;
 }
 </style>
-
+```
 <script>
 const animation = document.getElementById('animation');
 const frames = Array.from(animation.children);
