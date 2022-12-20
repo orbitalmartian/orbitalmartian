@@ -3,8 +3,9 @@
   <div class="frame">Frame 2</div>
   <div class="frame">Frame 3</div>
 </div>
-<head>
-<style>#animation {
+
+<style>
+#animation {
   position: relative;
   width: 100%;
   height: 100%;
@@ -24,8 +25,9 @@
   opacity: 1;
 }
 </style>
-</head>
-<script>const animation = document.getElementById('animation');
+
+<script>
+const animation = document.getElementById('animation');
 const frames = Array.from(animation.children);
 let currentFrame = 0;
 
