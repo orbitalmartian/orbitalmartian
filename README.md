@@ -12,9 +12,9 @@
    <h2>💻 Projects 💻</h2>
    <p>Here are some of my recent projects:</p>
    <ul>
-      <li><strong>Project 1</strong>: A web application that helps small businesses manage their finances. Built with React, Node.js, and MongoDB.</li>
-      <li><strong>Project 2</strong>: A mobile app that allows users to track their workouts and set fitness goals. Built with Flutter and Firebase.</li>
-      <li><strong>Project 3</strong>: A machine learning model that predicts stock prices using historical data. Built with Python and TensorFlow.</li>
+      <li><strong>SmallBizFinance</strong>: A web application that helps small businesses manage their finances. Built with React, Node.js, and MongoDB.</li>
+      <li><strong>ExerciseEinstein</strong>: A mobile app that allows users to track their workouts and set fitness goals. Built with Flutter and Firebase.</li>
+      <li><strong>TradeTarot</strong>: A machine learning model that predicts stock prices using historical data. Built with Python and TensorFlow.</li>
    </ul>
    <h2>📚 Skills 📚</h2>
    <ul>
