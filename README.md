@@ -1,6 +1,6 @@
 <div class="markdown prose break-words dark:prose-invert dark">
    <h1>🌟 Welcome to my profile! 🌟</h1>
-   <p>🙋‍♂️ Hi there! My name is Micah Richardson and I am a software developer and tech enthusiast. I enjoy working on projects that push the boundaries of what is possible and solve real-world problems.🤓</p>
+   <p>🙋‍♂️ Hi there! My name is Micah Richardson and I am a software developer, web designer and tech enthusiast. I enjoy working on projects that push the boundaries of what is possible and solve real-world problems.🤓</p>
    <h2>🔗 Social Links 🔗</h2>
    <p>Feel free to connect with me on the following platforms:</p>
    <ul>
