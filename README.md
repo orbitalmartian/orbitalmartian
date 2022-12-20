@@ -7,6 +7,7 @@
       <li><a href="https://www.linkedin.com/in/micah-richardson-9a2801259/" target="_new">LinkedIn</a></li>
       <li><a href="https://twitter.com/exoticdroid" target="_new">Twitter</a></li>
       <li><a href="https://stackoverflow.com/users/20821593/orbitalmartian" target="_new">Stack Overflow</a></li>
+      <li><a href="https://replit.com/@w9j" target="_new">Repl.it</a></li>
    </ul>
    <h2>💻 Projects 💻</h2>
    <p>Here are some of my recent projects:</p>
