@@ -1,7 +1,3 @@
-# My GitHub README
-
-Welcome to my README!
-
-<div align="center">
-    <img src="text.svg" width="400" height="400" alt="css-in-readme">
-</div>
+<object data="text.svg" type="image/svg+xml">
+  Your browser does not support SVG
+</object>
